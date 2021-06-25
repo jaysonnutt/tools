@@ -1,4 +1,5 @@
 # Initial
+- [AnyRun](https://app.any.run) - URL and file sandboxing
 - [VirusTotal](https://www.virustotal.com/gui/) - File and IOC database
 - [AnyRun](https://app.any.run/) - Interactive malware analysis
 - [Hybrid Analysis](https://hybrid-analysis.com/) - Automated malware analysis / IOC search
