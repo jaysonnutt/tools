@@ -1,1 +1,1 @@
-[https://github.com/kingToolbox/WindTerm](WindTerm)
+[WindTerm](https://github.com/kingToolbox/WindTerm)
